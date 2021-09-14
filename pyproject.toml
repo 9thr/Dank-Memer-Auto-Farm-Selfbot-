@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "repl_python3_Autodanker"
+name = "Dank Memer Self Bot"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["thr#8159"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
